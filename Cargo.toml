@@ -1,0 +1,12 @@
+[package]
+name = "fractals"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+draw = "0.3.0"
+rand = "0.7.3"
+
+[[bin]]
+name = "sierpinski"
+path = "src/sierpinski/bin/main.rs"

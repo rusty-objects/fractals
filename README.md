@@ -1,2 +1,5 @@
 # fractals
-fractals for fun
+
+```
+cargo run --bin sierpinski
+```
